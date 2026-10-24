@@ -1,0 +1,9 @@
+version: 1.2.7
+files:
+  - url: Yaqeen-Setup-1.2.7.exe
+    sha512: CKUkv3gNnwPpPKn1ZgzUl40rXNcesQXjP18Mf5sXz1o2m+HEju32ScoAYHtvSrCTSERLchr90HfaJPfJE73VMQ==
+    size: 97227137
+path: Yaqeen-Setup-1.2.7.exe
+sha512: CKUkv3gNnwPpPKn1ZgzUl40rXNcesQXjP18Mf5sXz1o2m+HEju32ScoAYHtvSrCTSERLchr90HfaJPfJE73VMQ==
+releaseNotes: 'نسخة 1.2.7: قائمة الأسعار (تبويب «الأسعار» في الأفواج): السعر يُقترح تلقائياً عند إنشاء فوج ويبقى قابلاً للتعديل. وتتضمن تحديثات 1.2.6: التسجيل في عدة أفواج من مستوى التلميذ مع البحث؛ تعديل معلومات التلميذ؛ نافذة قبض مفصلة لكل فوج مع تنبيه عند الدفع المسبق واقتراح استعماله؛ «لا يُحتسب» في الحضور؛ تعديل الحصص القادمة وحذف عدة حصص؛ ترتيب الأفواج حسب الطور وعرضها كقائمة؛ أشرطة البحث ثابتة في أعلى الصفحات؛ قائمة أسعار تُقترح عند إنشاء الأفواج.'
+releaseDate: '2026-10-24T19:44:36.936Z'
